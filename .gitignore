@@ -1,0 +1,4 @@
+*.sif
+pruned_model/
+llm_weights/
+
